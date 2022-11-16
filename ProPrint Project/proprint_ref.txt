@@ -1,0 +1,39 @@
+https://stackpython.co/tutorial/web-scraping-python-beautifulsoup-requests
+https://www.youtube.com/watch?v=90t9WkQbQ2E
+https://stackoverflow.com/questions/38489386/python-requests-403-forbidden
+https://sites.google.com/site/rwmsarphadxithi/rwm-khwam-hmay-khxng-error-code
+https://www.youtube.com/watch?v=_AeudsbKYG8&t=431s
+https://www.youtube.com/watch?v=_AeudsbKYG8
+https://www.youtube.com/watch?v=_JGvMAP1_BY&t=401s
+https://chromedriver.chromium.org/downloads
+https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
+
+https://www.jib.co.th/web/product/readProduct/19112/672/INK-HP--หมึกสำหรับเครื่องพิมพ์--680--BLACK--F6V27AA
+https://www.jib.co.th/web/product/readProduct/19111/672/INK-HP--หมึกสำหรับเครื่องพิมพ์--680--TRI-COLOR--F6V26AA
+
+https://www.jib.co.th/web/product/product_search/0?str_search={}&cate_id[]=
+
+https://www.jib.co.th/web/product/product_search/0?str_search=hp%20ink&cate_id[]=
+https://www.jib.co.th/web/product/product_search/0?str_search=canon%20ink&cate_id[]=
+https://www.jib.co.th/web/product/product_search/0?str_search=โน้ตบุ๊ค&cate_id[]=
+https://stackoverflow.com/questions/56159087/how-can-i-whitelist-characters-from-a-string-in-python-3
+https://stackoverflow.com/questions/50328849/is-there-any-possible-ways-to-bypass-cloudflare-security-checks
+https://www.tutorialspoint.com/How-do-I-find-the-location-of-Python-module-sources
+https://github.com/ultrafunkamsterdam/undetected-chromedriver
+https://pypi.org/project/undetected-chromedriver/
+https://lzone.de/examples/Python%20re.sub
+https://stackoverflow.com/questions/27092833/unicodeencodeerror-charmap-codec-cant-encode-characters
+https://stackoverflow.com/questions/42591175/how-to-close-python-selenium-webdriver-window
+https://www.w3schools.com/python/python_howto_remove_duplicates.asp
+
+'''FilePath = r'C:\Users\pam-s\Desktop\Myfile.txt'
+ReadFile = open(FilePath,'w',encoding="utf-8")
+for i in range(len(href)):
+    ReadFile.write(href[i]+'\n')
+'''
+
+website
+-advice
+-banana it
+-jib
+-office mate
